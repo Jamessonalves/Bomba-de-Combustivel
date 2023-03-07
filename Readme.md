@@ -27,4 +27,6 @@ Clone o projeto com o comando abaixo:
 # Entre no diretório 
   >cd [Projeto final] 
 # Execute o projeto  
-  > Click no ícone <img src="https://github.com/Jamessonalves/Bomba-de-Combustivel/blob/main/%C3%ADcone.PNG"/> ou digite shift + f10.
+<<<<<<< HEAD
+  > Click no ícone <img src="https://github.com/Jamessonalves/Bomba-de-Combustivel/blob/main/icone.PNG"/> ou digite shift + f10.
+
