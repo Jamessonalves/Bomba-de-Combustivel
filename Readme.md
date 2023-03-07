@@ -27,4 +27,4 @@ Clone o projeto com o comando abaixo:
 # Entre no diretório 
   >cd [Projeto final] 
 # Execute o projeto  
-  > Click no ícone <img src="‪ícone.PNG"/> ou digite shift + f10.
+  > Click no ícone <img src="Bomba-de-Combustivel/ícone.PNG"/> ou digite shift + f10.
