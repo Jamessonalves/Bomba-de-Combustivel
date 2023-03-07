@@ -1,0 +1,9 @@
+        Bomba de combustivel
+
+1 - Status da bomba de combustivel
+2 - Fazer abastecimento
+3 - Alterar o tipo de combustivel
+4 - Alterar a quantidade de combustivel disponivel
+5 - Alterar o preco do combustivel
+6 - Alterar senha do administrador
+7 - Sair
